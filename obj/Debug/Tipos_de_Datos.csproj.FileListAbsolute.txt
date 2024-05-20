@@ -1,0 +1,7 @@
+C:\Users\adria\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\Tipos_de_Datos.exe.config
+C:\Users\adria\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\Tipos_de_Datos.exe
+C:\Users\adria\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\Tipos_de_Datos.pdb
+C:\Users\adria\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\Tipos_de_Datos.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\Tipos_de_Datos.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\Tipos_de_Datos.exe
+C:\Users\adria\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\Tipos_de_Datos.pdb
